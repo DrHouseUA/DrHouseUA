@@ -9,9 +9,13 @@
 - 🛡️ Приватність, ергономіка, контроль — мої принципи
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,bash,git,linux,vscode,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=js,bash,git,vscode,nodejs,react" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=твій_username&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твій_username&theme=transparent&hide_border=true" />
+</p>
 <!--
 **DrHouseUA/DrHouseUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
