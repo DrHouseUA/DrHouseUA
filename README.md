@@ -1,7 +1,8 @@
-<h1 align="center">Hi, welcome to my GitHub Page, nice to meet you here, let`s solve issue together!</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Architect+of+modular+logic;Turning+ChAoS+into+symmetry;Privacy+Focused+Digital+Craftsman;Optimize+what+must+never+break;Scripting+Everything+That+Moves" alt="Typing SVG" />
 </p>
+<h1 align="center">Hi, welcome to fullstack developer, solve issues quickly with hight quality</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <span>### 🧠 Про мене</span>
