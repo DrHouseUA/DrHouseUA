@@ -12,11 +12,11 @@
 </p>  
 <p>- 🛡️ Приватність, ергономіка, контроль — мої принципи / Privacy, ergonomics, and control are my principles
 </p>
-<p>- 🧠 Віртуоз модульної логіки: абстрагую, узагальнюю, оптимізую /Virtuoso of modular logic: I abstract, generalize, and optimize
+<p>- 🧠 Віртуоз модульної логіки: абстрагую, узагальнюю, оптимізую / Virtuoso of modular logic: I abstract, generalize, and optimize
 </p>
-<p>- ⚙️ Скриптую конфігурації, автоматизую таблиці, інтегрую API / - I script configurations, automate spreadsheets, and integrate APIs
+<p>- ⚙️ Скриптую конфігурації, автоматизую таблиці, інтегрую API / I script configurations, automate spreadsheets, and integrate APIs
 </p>
-<p>- 🔍 Вмію мислити нейтрально, рефакторити без жалю і будувати рішення, що витримують час / - I think neutrally, refactor without remorse, and build solutions that endure
+<p>- 🔍 Вмію мислити нейтрально, рефакторити без жалю і будувати рішення, що витримують час / I think neutrally, refactor without remorse, and build solutions that endure
 </p>
 <p>- 🌐 Мережі, роутери, IP-біндінг /  Networks, routers, IP binding</p>
  
