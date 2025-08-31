@@ -8,6 +8,9 @@
 - 📊 Майстер Google Apps Script + Excel API  
 - 🛡️ Приватність, ергономіка, контроль — мої принципи
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,bash,git,linux,vscode,nodejs,react" />
+</p>
 
 <!--
 **DrHouseUA/DrHouseUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
