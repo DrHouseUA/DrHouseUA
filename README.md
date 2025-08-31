@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Modular+Logic+Architect;Privacy+Focused+Digital+Craftsman;Scripting+Everything+That+Moves" alt="Typing SVG" />
 </p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <span>### 🧠 Про мене</span>
 <p>- 🧩 Архітектор модульної логіки та автоматизації</p>  
