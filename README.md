@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/роман-княжик-772824229"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <!--
 **DrHouseUA/DrHouseUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
