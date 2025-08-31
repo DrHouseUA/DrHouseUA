@@ -1,6 +1,6 @@
 <h1 align="center">Привіт, я Roman 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Modular+Logic+Architect;Minecraft+Modpack+Engineer;Privacy+Focused+Digital+Craftsman;Scripting+Everything+That+Moves" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Modular+Logic+Architect;Privacy+Focused+Digital+Craftsman;Scripting+Everything+That+Moves" alt="Typing SVG" />
 </p>
 
 ### 🧠 Про мене
