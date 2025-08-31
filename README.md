@@ -5,8 +5,8 @@
 <div align="center">
 <span>### 🧠 Про мене</span>
 <p>- 🧩 Архітектор модульної логіки та автоматизації</p>  
-- 📊 Майстер Google Apps Script + Excel API  
-- 🛡️ Приватність, ергономіка, контроль — мої принципи
+<p>- 📊 Майстер Google Apps Script + Excel API</p>  
+<p> - 🛡️ Приватність, ергономіка, контроль — мої принципи</p>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,bash,git,vscode,nodejs,react" />
