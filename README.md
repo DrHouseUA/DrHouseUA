@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=js,bash,git,vscode,nodejs,react" />
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrHouseUA&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrHouseUA&theme=transparent&hide_border=true" />
