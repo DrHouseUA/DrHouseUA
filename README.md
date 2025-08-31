@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Modular+Logic+Architect;Privacy+Focused+Digital+Craftsman;Scripting+Everything+That+Moves" alt="Typing SVG" />
 </p>
-<p align="center">
+<div align="center">
 <span>### 🧠 Про мене</span>
 <p>- 🧩 Архітектор модульної логіки та автоматизації</p>  
 - 📊 Майстер Google Apps Script + Excel API  
@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,bash,git,vscode,nodejs,react" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrHouseUA&show_icons=true&theme=transparent&hide_border=true" />
