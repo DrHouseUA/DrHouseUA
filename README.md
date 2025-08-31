@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Modular+Logic+Architect;Minecraft+Modpack+Engineer;Privacy+Focused+Digital+Craftsman;Scripting+Everything+That+Moves" alt="Typing SVG" />
 </p>
 
+### 🧠 Про мене
+- 🧩 Архітектор модульної логіки та автоматизації  
+- 📊 Майстер Google Apps Script + Excel API  
+- 🛡️ Приватність, ергономіка, контроль — мої принципи
+
+
 <!--
 **DrHouseUA/DrHouseUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
