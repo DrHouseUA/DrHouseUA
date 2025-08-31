@@ -10,7 +10,7 @@
 <p> - 🛡️ Приватність, ергономіка, контроль — мої принципи</p>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=htms,css,js,bash,git,vscode,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,git,vscode,nodejs,react" />
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
