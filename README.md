@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/роман-княжик-772824229"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![Мій банер](./assets/banner.png)
+<img src="./assets/banner.png" width="300"/>
 
 
 <!--
